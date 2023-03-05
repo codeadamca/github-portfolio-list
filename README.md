@@ -1,6 +1,6 @@
 # GitHub Portfolio List
 
-A GitHb repo for listing all Web Development student portfolios and GitHub accounts.
+A GitHub repo for listing all Web Development student portfolios and GitHub accounts.
 
 ## Requirements:
 
