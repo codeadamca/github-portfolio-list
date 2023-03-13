@@ -24,9 +24,15 @@ $ git commit -am "Added <YOUR_NAME> to the project"
 $ git push origin main
 ```
 
-6. Using a browser, navigate to your GitHub ```github-demo-forking``` repository, click ```Pull requests```, give the pull request a title, and click ```New pull request```.
+6. Using a browser, navigate to your GitHub ```github-demo-forking``` repository, click ```Pull requests```, and click ```New pull request```.
 
 ![New Pull Request](https://raw.githubusercontent.com/codeadamca/github-demo-forking/main/screenshot-pull-request.png)
+
+7. Confirm the branch, review the code you are submitting, and click ```Create pull request```.
+
+![Submit Pull Request](https://raw.githubusercontent.com/codeadamca/github-demo-forking/main/screenshot-pull-submit.png)
+
+The original GitHub repo owner will be notified of the pull request!
 
 ## Requirements:
 
