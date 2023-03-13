@@ -24,7 +24,9 @@ $ git commit -am "Added <YOUR_NAME> to the project"
 $ git push origin main
 ```
 
-6. Using a browser, navigate to your GitHub ```github-demo-forking``` repository, 
+6. Using a browser, navigate to your GitHub ```github-demo-forking``` repository, click ```Pull requests```, give the pull request a title, and click ```New pull request```.
+
+
 
 ## Requirements:
 
