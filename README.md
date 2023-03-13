@@ -26,7 +26,7 @@ $ git push origin main
 
 6. Using a browser, navigate to your GitHub ```github-demo-forking``` repository, click ```Pull requests```, give the pull request a title, and click ```New pull request```.
 
-
+![New Pull Request](https://raw.githubusercontent.com/codeadamca/github-demo-forking/main/screenshot-pull-request.png)
 
 ## Requirements:
 
